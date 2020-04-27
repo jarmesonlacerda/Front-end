@@ -10,14 +10,14 @@
         <title>login</title>
     </head>
     <body>
-        <form method="POST" action="LoginServlets">
+        
             <label for="user">Usuário</label>
             <input type="text" name="user"  placeholder="Digite seu usuário"/>
             
-            <label for="senha">Senha</label>
+            <label for="senha">Senha</label>     
             <input type="password" name="senha" placeholder="Digite Sua Senha"/>
             
             <button type="submit">enviar</button>
-        </form>
+        
     </body>
 </html>

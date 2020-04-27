@@ -37,7 +37,7 @@ public class LoginServlets extends HttpServlet {
 
         User user = new User(userName, password);
 
-        ServletContext context;
+        ServletContext context;  
         context = getServletContext();
 
         String messageResString;
@@ -52,7 +52,4 @@ public class LoginServlets extends HttpServlet {
             dispatcher.forward(req, resp);
         }
     }
-    
-   
-
-}
+ }
