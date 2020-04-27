@@ -1,0 +1,61 @@
+img {
+    border-radius: 8px;
+    background-attachment: fixed;
+    background: size 200;
+    background-repeat:no-repeat;
+    margin-left: 40%;
+    background-color: black;
+    margin-right: auto;
+}
+
+form{
+background-color: black;
+border-radius: 5%;
+background-size: 200%;
+background-attachment: fixed;
+background-repeat: no-repeat;
+max-width: 100%;
+width: 395px;
+height: 470px;
+object-fit: cover;
+margin-left: 40%;
+}
+
+label{
+    color: antiquewhite;
+    font-size: 230%;
+    background-attachment: fixed;
+}
+
+input{
+    
+}
+
+h1{
+    font-style: oblique;
+    color: brown;
+    font-size: 180%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+    background: black;
+    color: bisque;
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid ghostwhite;
+    font-size: 20px;
+    max-width: 50%;
+    width: 110px;
+    height: 40px;
+    object-fit: cover;
+    margin-left: 40%;
+}
+
+body{
+    background-color: brown
+}
